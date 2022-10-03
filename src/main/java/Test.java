@@ -3,5 +3,6 @@ public class Test {
 
         System.out.println("git test");
         System.out.println("合并前,hot");
+        System.out.println("冲突 hot");
     }
 }
